@@ -1,7 +1,7 @@
 aleo smart contract
 forgive
 fix
-نصب پیش نیازها 
+نصب پیشزها 
 ------------------------------------------------------------------
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 
